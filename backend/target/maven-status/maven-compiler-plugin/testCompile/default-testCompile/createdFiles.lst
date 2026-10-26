@@ -1,0 +1,4 @@
+com\knowflow\PermissionAwareRetrievalTest.class
+com\knowflow\PromptInjectionResistanceTest.class
+com\knowflow\AccessControlServiceTest.class
+com\knowflow\AccessControlServiceTest$TestAuditService.class
